@@ -1,3 +1,3 @@
 # languages  
 
-- ![python](https://github.com/FJLadebauche/languages/blob/main/python)
+- [python](https://github.com/FJLadebauche/languages/blob/main/python)
